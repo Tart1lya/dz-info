@@ -59,3 +59,10 @@ Info: Service stopped
 
 ---
 
+## Ресурсы
+
+1. [Документация grep](https://www.gnu.org/software/grep/manual/grep.html)
+2. [Примеры использования команды](https://wiki.merionet.ru/articles/16-poleznyh-primerov-grep)
+3. [Markdown Guidelines](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+   [Ресурс, где найдётся всё](https://www.google.com)
